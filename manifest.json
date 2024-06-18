@@ -1,0 +1,11 @@
+{
+  "domain": "habluelink",
+  "name": "HABlueLink",
+  "documentation": "https://digitalparadise.net/habluelink",
+  "issue_tracker": "https://digitalparadise.net/habluelink",
+  "version": "0.1",
+  "codeowners": ["@daerimin"],
+  "integration_type": "hub",
+  "ios_class": "cloud_polling",
+  "config_flow": true
+}
